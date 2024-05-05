@@ -1,5 +1,5 @@
 COMPILER := go
-BINNAME := jadwal-go
+BINNAME := jadwal
 
 BUILDCMD := $(COMPILER) build
 OUTPUT := -o $(BINNAME)
